@@ -84,7 +84,7 @@ export default function LandingPage() {
               <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-teal-400 to-cyan-500 flex items-center justify-center shadow-lg shadow-teal-500/20">
                 <HeartPulse className="w-5 h-5 text-white" />
               </div>
-              <span className="text-lg font-bold text-white tracking-tight">Vital<span className="text-teal-400">AI</span></span>
+              <span className="text-lg font-bold text-white tracking-tight">GetYourDoctor</span>
             </div>
             <div className="hidden md:flex items-center gap-8">
               {NAV_ITEMS.map((item) => (
@@ -422,7 +422,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="sm:col-span-2 lg:col-span-1">
-              <div className="flex items-center gap-2.5 mb-4"><div className="w-8 h-8 rounded-xl bg-gradient-to-br from-teal-400 to-cyan-500 flex items-center justify-center shadow-md"><HeartPulse className="w-4 h-4 text-white" /></div><span className="text-base font-bold text-white">Vital<span className="text-teal-400">AI</span></span></div>
+              <div className="flex items-center gap-2.5 mb-4"><div className="w-8 h-8 rounded-xl bg-gradient-to-br from-teal-400 to-cyan-500 flex items-center justify-center shadow-md"><HeartPulse className="w-4 h-4 text-white" /></div><span className="text-base font-bold text-white">GetYourDoctor</span></div>
               <p className="text-sm text-white/40 leading-relaxed max-w-xs">AI-powered phone agents for healthcare providers. Never miss a call, always book an appointment.</p>
             </div>
             {[
