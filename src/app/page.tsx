@@ -157,7 +157,7 @@ export default function LandingPage() {
                 transition={{ duration: 0.6, delay: 0.25 }}
                 className="text-base sm:text-lg text-white/40 leading-relaxed mb-8 max-w-lg"
               >
-                VitalAI handles your clinic&apos;s incoming calls — booking appointments, answering questions, and managing patient intake. Natural voice, instant setup, 24/7.
+                GetYourDoctor handles your clinic&apos;s incoming calls — booking appointments, answering questions, and managing patient intake. Natural voice, instant setup, 24/7.
               </motion.p>
 
               <motion.div
@@ -406,7 +406,7 @@ export default function LandingPage() {
             <div className="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-8 p-8 sm:p-12 md:p-16">
               <div className="text-center lg:text-left">
                 <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight mb-3">Ready to transform your clinic&apos;s phone?</h2>
-                <p className="text-teal-200/60 text-lg max-w-xl">Join thousands of healthcare providers using VitalAI. Start your free 14-day trial — no credit card needed.</p>
+                <p className="text-teal-200/60 text-lg max-w-xl">Join thousands of healthcare providers using GetYourDoctor. Start your free 14-day trial — no credit card needed.</p>
               </div>
               <div className="flex flex-col sm:flex-row items-center gap-3 flex-shrink-0">
                 <a href="/signup" className="inline-flex items-center gap-2 bg-white text-gray-900 hover:bg-white/90 font-bold px-7 py-3.5 rounded-xl shadow-lg transition-all duration-200 text-[15px]">Start Free Trial<ArrowRight className="w-4 h-4" /></a>
@@ -434,7 +434,7 @@ export default function LandingPage() {
             ))}
           </div>
           <div className="mt-12 pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <p className="text-xs text-white/30">&copy; 2026 VitalAI. All rights reserved.</p>
+            <p className="text-xs text-white/30">&copy; 2026 GetYourDoctor. All rights reserved.</p>
             <div className="flex items-center gap-4"><a href="#" className="text-xs text-white/30 hover:text-teal-300 transition-colors">Twitter</a><a href="#" className="text-xs text-white/30 hover:text-teal-300 transition-colors">LinkedIn</a><a href="#" className="text-xs text-white/30 hover:text-teal-300 transition-colors">GitHub</a></div>
           </div>
         </div>

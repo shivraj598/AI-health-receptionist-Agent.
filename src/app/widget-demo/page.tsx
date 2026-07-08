@@ -19,7 +19,7 @@ export default function WidgetDemoPage() {
           See the AI widget in action
         </h1>
         <p className="text-lg text-slate-600 max-w-2xl mx-auto mb-8">
-          Click the button in the bottom-right corner to see how your patients will interact with VitalAI.
+          Click the button in the bottom-right corner to see how your patients will interact with GetYourDoctor.
         </p>
         <div className="inline-flex items-center gap-2 text-sm text-slate-500 bg-white rounded-xl px-4 py-2 border border-[#e2edf7] shadow-sm">
           <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
@@ -52,7 +52,7 @@ export default function WidgetDemoPage() {
                   <Bot className="w-5 h-5 text-white" />
                 </div>
                 <div>
-                  <p className="text-sm font-bold text-white">VitalAI Assistant</p>
+                  <p className="text-sm font-bold text-white">GetYourDoctor Assistant</p>
                   <div className="flex items-center gap-1.5">
                     <div className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse" />
                     <span className="text-xs text-white/70">Online</span>
@@ -68,7 +68,7 @@ export default function WidgetDemoPage() {
                   <Bot className="w-3.5 h-3.5 text-teal-600" />
                 </div>
                 <div className="bg-[#f8faff] rounded-2xl rounded-tl-sm px-4 py-2.5 border border-[#e2edf7]">
-                  <p className="text-sm text-slate-700">Hi there! I&apos;m the VitalAI assistant. I can help you book an appointment or answer any questions about the clinic. How can I help you today?</p>
+                  <p className="text-sm text-slate-700">Hi there! I&apos;m the GetYourDoctor assistant. I can help you book an appointment or answer any questions about the clinic. How can I help you today?</p>
                 </div>
               </div>
               <div className="flex items-start gap-2.5 justify-end">

@@ -6,7 +6,7 @@ export default function LoginPage() {
     <div className="bg-white rounded-2xl p-8 border border-[#e2edf7] shadow-lg shadow-teal-100/10">
       <div className="text-center mb-8">
         <h1 className="text-2xl font-bold text-slate-900 tracking-tight">Welcome back</h1>
-        <p className="text-sm text-slate-500 mt-1.5">Sign in to your VitalAI dashboard</p>
+        <p className="text-sm text-slate-500 mt-1.5">Sign in to your GetYourDoctor dashboard</p>
       </div>
       <form className="space-y-5" onSubmit={(e) => e.preventDefault()}>
         <div>

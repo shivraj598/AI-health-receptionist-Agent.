@@ -20,7 +20,7 @@ export default function ClinicPage({ params }: { params: { slug: string } }) {
         <div className="relative max-w-5xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
           <Link href="/" className="inline-flex items-center gap-2 text-white/60 hover:text-white text-sm mb-8 transition-colors">
             <HeartPulse className="w-4 h-4" />
-            Powered by VitalAI
+            Powered by GetYourDoctor
           </Link>
           <div className="flex flex-col sm:flex-row items-start sm:items-center gap-6">
             <div className="w-20 h-20 rounded-2xl bg-white/20 backdrop-blur-md flex items-center justify-center border border-white/20 shadow-xl shadow-black/10">

@@ -1,4 +1,4 @@
-# VitalAI — Health AI Call Agent SaaS
+# GetYourDoctor — Health AI Call Agent SaaS
 
 AI-powered voice receptionist for healthcare clinics. Handles incoming calls, books appointments, manages patients, and processes subscriptions — all powered by AI.
 
