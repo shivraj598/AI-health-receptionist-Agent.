@@ -116,16 +116,13 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
 
   return (
     <div className="min-h-screen bg-black flex">
-      {/* Background gradient */}
       <div className="fixed inset-0 bg-gradient-to-br from-black via-zinc-950 to-black pointer-events-none" />
       <div className="fixed inset-0 bg-[radial-gradient(ellipse_at_top,rgba(45,212,191,0.06),transparent_50%),radial-gradient(ellipse_at_bottom,rgba(6,182,212,0.03),transparent_50%)] pointer-events-none" />
 
-      {/* Desktop sidebar */}
       <aside className="hidden lg:flex lg:flex-col w-64 fixed inset-y-0 left-0 z-40 bg-black/60 backdrop-blur-2xl border-r border-white/10">
         <SidebarContent />
       </aside>
 
-      {/* Mobile sidebar via Sheet */}
       <Button
         variant="ghost"
         size="icon"
@@ -141,7 +138,6 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
       </Sheet>
 
       <div className="flex-1 flex flex-col min-h-screen lg:ml-64">
-        {/* Header */}
         <header className="h-16 bg-black/40 backdrop-blur-xl border-b border-white/10 flex items-center justify-between px-4 sm:px-6 sticky top-0 z-30">
           <div className="flex items-center gap-3">
             <Button variant="ghost" size="icon" className="lg:hidden text-white/60 hover:text-white opacity-0 pointer-events-none lg:opacity-100 lg:pointer-events-auto">
@@ -196,7 +192,6 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           </div>
         </header>
 
-        {/* Main content */}
         <main className="flex-1 p-4 sm:p-6 lg:p-8 relative z-10">
           {children}
         </main>
