@@ -1,0 +1,268 @@
+- generic [active] [ref=f7e1]:
+  - generic [ref=f7e2]:
+    - navigation [ref=f7e3]:
+      - generic [ref=f7e5]:
+        - generic [ref=f7e6]: GetYourDoctor
+        - generic [ref=f7e12]:
+          - link "Features" [ref=f7e13] [cursor=pointer]:
+            - /url: "#features"
+          - link "How It Works" [ref=f7e14] [cursor=pointer]:
+            - /url: "#how-it-works"
+          - link "Pricing" [ref=f7e15] [cursor=pointer]:
+            - /url: "#pricing"
+          - generic [ref=f7e16]:
+            - link "Sign In" [ref=f7e17] [cursor=pointer]:
+              - /url: /login
+            - link "Get Started" [ref=f7e18] [cursor=pointer]:
+              - /url: /signup
+    - generic [ref=f7e29]:
+      - generic [ref=f7e30]:
+        - generic [ref=f7e31]: AI-powered healthcare answering — now available
+        - heading "Your AI Receptionist Never Misses" [level=1] [ref=f7e36]:
+          - generic [ref=f7e37]: Your AI
+          - generic [ref=f7e38]: Receptionist
+          - generic [ref=f7e39]: Never Misses
+        - paragraph [ref=f7e40]: GetYourDoctor handles your clinic's incoming calls — booking appointments, answering questions, and managing patient intake. Natural voice, instant setup, 24/7.
+        - generic [ref=f7e41]:
+          - link "Start Free Trial" [ref=f7e42] [cursor=pointer]:
+            - /url: /signup
+          - link "See How It Works" [ref=f7e47] [cursor=pointer]:
+            - /url: "#how-it-works"
+        - generic [ref=f7e50]:
+          - generic [ref=f7e51]:
+            - generic [ref=f7e52]: ✦
+            - text: No credit card
+          - generic [ref=f7e53]:
+            - generic [ref=f7e54]: ✦
+            - text: 14-day free trial
+          - generic [ref=f7e55]:
+            - generic [ref=f7e56]: ✦
+            - text: Cancel anytime
+      - generic [ref=f7e59]:
+        - generic [ref=f7e60]:
+          - generic [ref=f7e61]: vitalai.io/demo
+          - generic [ref=f7e67]: Active
+        - generic [ref=f7e71]:
+          - generic [ref=f7e72]:
+            - generic [ref=f7e73]: AI
+            - generic [ref=f7e74]:
+              - paragraph [ref=f7e75]: AI Receptionist
+              - paragraph [ref=f7e76]: Online — Ready to help
+          - generic [ref=f7e77]:
+            - paragraph [ref=f7e84]: Hi there! Thanks for calling VitalCare Clinic. I can help you book an appointment, check hours, or connect you with a doctor. How can I help?
+            - paragraph [ref=f7e87]: Hi! I'd like to book a checkup for next Tuesday morning.
+            - generic [ref=f7e92]: AI is typing...
+          - generic [ref=f7e94]:
+            - generic [ref=f7e95]:
+              - generic [ref=f7e96]: Today's Summary
+              - generic [ref=f7e97]: Live
+            - generic [ref=f7e98]:
+              - generic [ref=f7e99]:
+                - paragraph [ref=f7e100]: "24"
+                - paragraph [ref=f7e101]: Calls
+              - generic [ref=f7e102]:
+                - paragraph [ref=f7e103]: "18"
+                - paragraph [ref=f7e104]: Booked
+              - generic [ref=f7e105]:
+                - paragraph [ref=f7e106]: 12s
+                - paragraph [ref=f7e107]: Avg. Wait
+          - generic [ref=f7e108]: HIPAA Compliant · End-to-end encrypted
+    - generic [ref=f7e113]:
+      - generic [ref=f7e114]:
+        - paragraph [ref=f7e115]: 10K+
+        - paragraph [ref=f7e116]: Active Patients
+      - generic [ref=f7e117]:
+        - paragraph [ref=f7e118]: 98%
+        - paragraph [ref=f7e119]: Satisfaction Rate
+      - generic [ref=f7e120]:
+        - paragraph [ref=f7e121]: 4.2M
+        - paragraph [ref=f7e122]: Calls Handled
+      - generic [ref=f7e123]:
+        - paragraph [ref=f7e124]: 3min
+        - paragraph [ref=f7e125]: Avg. Setup Time
+    - generic [ref=f7e127]:
+      - generic [ref=f7e128]:
+        - generic [ref=f7e129]: Everything you need
+        - heading "Your clinic never closes with AI-powered call handling" [level=2] [ref=f7e132]
+        - paragraph [ref=f7e133]: From booking to billing, your AI agent handles it all — so your team focuses on care.
+      - generic [ref=f7e134]:
+        - generic [ref=f7e136]:
+          - heading "AI Voice Agent" [level=3] [ref=f7e141]
+          - paragraph [ref=f7e142]: Natural conversations that handle incoming calls 24/7. Your patients never wait.
+        - generic [ref=f7e144]:
+          - heading "Smart Booking" [level=3] [ref=f7e148]
+          - paragraph [ref=f7e149]: AI books, reschedules, and confirms appointments directly through conversation.
+        - generic [ref=f7e151]:
+          - heading "HIPAA Compliant" [level=3] [ref=f7e155]
+          - paragraph [ref=f7e156]: Enterprise-grade encryption. Your patient data stays protected.
+        - generic [ref=f7e158]:
+          - heading "Real-time Analytics" [level=3] [ref=f7e162]
+          - paragraph [ref=f7e163]: Track calls, satisfaction, booking rates live.
+        - generic [ref=f7e165]:
+          - heading "Multi-location" [level=3] [ref=f7e170]
+          - paragraph [ref=f7e171]: Manage all clinics from one dashboard.
+        - generic [ref=f7e173]:
+          - heading "Smart Triage" [level=3] [ref=f7e177]
+          - paragraph [ref=f7e178]: AI understands symptoms, routes patients instantly.
+    - generic [ref=f7e180]:
+      - generic [ref=f7e181]:
+        - heading "Get started in three simple steps" [level=2] [ref=f7e182]
+        - paragraph [ref=f7e183]: No complex setup. No technical skills needed.
+      - generic [ref=f7e184]:
+        - generic [ref=f7e186]:
+          - generic [ref=f7e187]: "01"
+          - heading "Connect Calendar" [level=3] [ref=f7e189]
+          - paragraph [ref=f7e190]: Sync your clinic&apos;s existing calendar. AI learns your availability instantly.
+        - generic [ref=f7e191]:
+          - generic [ref=f7e192]: "02"
+          - heading "Customize Agent" [level=3] [ref=f7e194]
+          - paragraph [ref=f7e195]: Set hours, services, and preferences. Sounds like your front desk.
+        - generic [ref=f7e196]:
+          - generic [ref=f7e197]: "03"
+          - heading "Go Live" [level=3] [ref=f7e199]
+          - paragraph [ref=f7e200]: Embed a widget or forward your number. AI starts taking calls immediately.
+    - generic [ref=f7e202]:
+      - generic [ref=f7e203]:
+        - generic [ref=f7e204]: Trusted by healthcare providers
+        - heading "What clinic teams are saying" [level=2] [ref=f7e207]
+      - generic [ref=f7e208]:
+        - generic [ref=f7e209]:
+          - paragraph [ref=f7e221]: “Our no-show rate dropped from 22% to 3% in the first month. The AI calls patients to confirm.”
+          - generic [ref=f7e222]:
+            - generic [ref=f7e223]: DSC
+            - generic [ref=f7e224]:
+              - paragraph [ref=f7e225]: Dr. Sarah Chen
+              - paragraph [ref=f7e226]: Family Medicine, Portland
+        - generic [ref=f7e227]:
+          - paragraph [ref=f7e239]: “Setup took 10 minutes. Patients book at 2 AM without waiting. The voice is so natural.”
+          - generic [ref=f7e240]:
+            - generic [ref=f7e241]: DMT
+            - generic [ref=f7e242]:
+              - paragraph [ref=f7e243]: Dr. Michael Torres
+              - paragraph [ref=f7e244]: Dental Care, Austin
+        - generic [ref=f7e245]:
+          - paragraph [ref=f7e257]: “We handle 3x more calls without extra staff. The triage feature saved us hours daily.”
+          - generic [ref=f7e258]:
+            - generic [ref=f7e259]: NP
+            - generic [ref=f7e260]:
+              - paragraph [ref=f7e261]: Nina Patel
+              - paragraph [ref=f7e262]: Practice Manager, Chicago
+    - generic [ref=f7e264]:
+      - generic [ref=f7e265]:
+        - heading "Simple, transparent pricing" [level=2] [ref=f7e266]
+        - paragraph [ref=f7e267]: Start free. Upgrade when you grow. No hidden fees.
+      - generic [ref=f7e268]:
+        - generic [ref=f7e269]:
+          - heading "Starter" [level=3] [ref=f7e270]
+          - paragraph [ref=f7e271]: For small practices.
+          - generic [ref=f7e272]:
+            - generic [ref=f7e273]: $0
+            - generic [ref=f7e274]: /month
+          - list [ref=f7e275]:
+            - listitem [ref=f7e276]: 1 AI agent
+            - listitem [ref=f7e280]: 5 bookings/mo
+            - listitem [ref=f7e284]: Basic analytics
+            - listitem [ref=f7e288]: Email support
+          - link "Get Started Free" [ref=f7e292] [cursor=pointer]:
+            - /url: /signup
+        - generic [ref=f7e293]:
+          - generic [ref=f7e294]: Most Popular
+          - heading "Pro" [level=3] [ref=f7e297]
+          - paragraph [ref=f7e298]: For growing clinics.
+          - generic [ref=f7e299]:
+            - generic [ref=f7e300]: $49
+            - generic [ref=f7e301]: /month
+          - list [ref=f7e302]:
+            - listitem [ref=f7e303]: 10 AI agents
+            - listitem [ref=f7e307]: 99 bookings/mo
+            - listitem [ref=f7e311]: Advanced analytics
+            - listitem [ref=f7e315]: Priority support
+            - listitem [ref=f7e319]: Custom voice
+          - link "Start 14-Day Trial" [ref=f7e323] [cursor=pointer]:
+            - /url: /signup
+        - generic [ref=f7e324]:
+          - heading "Business" [level=3] [ref=f7e325]
+          - paragraph [ref=f7e326]: For multi-location groups.
+          - generic [ref=f7e327]:
+            - generic [ref=f7e328]: $199
+            - generic [ref=f7e329]: /month
+          - list [ref=f7e330]:
+            - listitem [ref=f7e331]: Unlimited agents
+            - listitem [ref=f7e335]: Unlimited bookings
+            - listitem [ref=f7e339]: White-label
+            - listitem [ref=f7e343]: Dedicated manager
+            - listitem [ref=f7e347]: API access
+          - link "Contact Sales" [ref=f7e351] [cursor=pointer]:
+            - /url: /signup
+    - generic [ref=f7e356]:
+      - generic [ref=f7e357]:
+        - heading "Ready to transform your clinic's phone?" [level=2] [ref=f7e358]
+        - paragraph [ref=f7e359]: Join thousands of healthcare providers using GetYourDoctor. Start your free 14-day trial — no credit card needed.
+      - generic [ref=f7e360]:
+        - link "Start Free Trial" [ref=f7e361] [cursor=pointer]:
+          - /url: /signup
+        - link "Talk to Sales" [ref=f7e364] [cursor=pointer]:
+          - /url: "#how-it-works"
+    - contentinfo [ref=f7e365]:
+      - generic [ref=f7e366]:
+        - generic [ref=f7e367]:
+          - generic [ref=f7e368]:
+            - generic [ref=f7e369]: GetYourDoctor
+            - paragraph [ref=f7e375]: AI-powered phone agents for healthcare providers. Never miss a call, always book an appointment.
+          - generic [ref=f7e376]:
+            - heading "Product" [level=4] [ref=f7e377]
+            - list [ref=f7e378]:
+              - listitem [ref=f7e379]:
+                - link "Features" [ref=f7e380] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e381]:
+                - link "Pricing" [ref=f7e382] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e383]:
+                - link "Integrations" [ref=f7e384] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e385]:
+                - link "API" [ref=f7e386] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=f7e387]:
+            - heading "Company" [level=4] [ref=f7e388]
+            - list [ref=f7e389]:
+              - listitem [ref=f7e390]:
+                - link "About" [ref=f7e391] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e392]:
+                - link "Blog" [ref=f7e393] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e394]:
+                - link "Careers" [ref=f7e395] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e396]:
+                - link "Contact" [ref=f7e397] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=f7e398]:
+            - heading "Legal" [level=4] [ref=f7e399]
+            - list [ref=f7e400]:
+              - listitem [ref=f7e401]:
+                - link "Privacy Policy" [ref=f7e402] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e403]:
+                - link "Terms of Service" [ref=f7e404] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e405]:
+                - link "HIPAA" [ref=f7e406] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=f7e407]:
+                - link "Security" [ref=f7e408] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=f7e409]:
+          - paragraph [ref=f7e410]: © 2026 GetYourDoctor. All rights reserved.
+          - generic [ref=f7e411]:
+            - link "Twitter" [ref=f7e412] [cursor=pointer]:
+              - /url: "#"
+            - link "LinkedIn" [ref=f7e413] [cursor=pointer]:
+              - /url: "#"
+            - link "GitHub" [ref=f7e414] [cursor=pointer]:
+              - /url: "#"
+    - link "Book Appointment" [ref=f7e415] [cursor=pointer]:
+      - /url: /widget-demo
+  - alert [ref=f7e418]
